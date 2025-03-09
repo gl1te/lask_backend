@@ -1,3 +1,5 @@
+При первом запуске бэка на новом устройсте прошу открыть cmd прописать ipconfig и полученный первый ipv4 вставить в клиент по пути data->utils->Constants вместо BASE_URL оставляя при этом номер порта и все остальное что там есть меняем только ip
+
 # ktor-jwt-auth
 
 This project was created using the [Ktor Project Generator](https://start.ktor.io).
